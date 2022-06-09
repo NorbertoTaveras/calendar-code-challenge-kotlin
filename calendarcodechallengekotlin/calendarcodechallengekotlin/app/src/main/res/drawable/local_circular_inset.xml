@@ -1,0 +1,6 @@
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/local_holiday_bg"
+    android:insetRight="8dp"
+    android:insetLeft="8dp"
+    android:insetBottom="8dp"
+    android:insetTop="8dp" />
